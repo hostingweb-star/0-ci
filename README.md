@@ -34,8 +34,8 @@
       margin-bottom:24px;
     }
     .avatar{width:110px;height:110px;border-radius:16px;overflow:hidden;
-      border:3px solid rgba(178,66,129,0.5);flex-shrink:0;
-      box-shadow:0 0 18px rgba(178,66,129,0.4)}
+      border:3px solid rgb(243,236,108);flex-shrink:0;
+      box-shadow:0 0 18px rgb(243,236,108)}
     .avatar img{width:100%;height:100%;object-fit:cover}
     .meta h1{font-size:24px;margin-bottom:6px;color:rgb(243,236,108)}
     .meta p{color:var(--muted);font-size:15px;margin-bottom:10px}
@@ -138,7 +138,6 @@
             <iframe src="https://www.youtube.com/embed/SqyUI_sog28?si=nZSIy1HMOrnWq6iJ" 
             title="YouTube video" allowfullscreen></iframe>
         </div>
-        </main>
 
     <article class="post">
         <h2>Post 2: Apa Itu Normalisasi pada ERD?</h2>
@@ -157,6 +156,4 @@
     <footer>
       © 2025 Blog Basis Data | <a href="https://www.ubpkarawang.ac.id" target="_blank">UBP Karawang</a>
     </footer>
-  </div>
-</body>
-</html>
+
